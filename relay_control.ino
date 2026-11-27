@@ -15,7 +15,7 @@ void setup() {
   
 }
 
-void loop () {
+void loop () { //원하는 릴레이 작동 패턴 입력
 
    
 
